@@ -1,0 +1,15 @@
+D:\ejercicios_cs\EjerciciosVectores\bin\Debug\net10.0\EjerciciosVectores.exe
+D:\ejercicios_cs\EjerciciosVectores\bin\Debug\net10.0\EjerciciosVectores.deps.json
+D:\ejercicios_cs\EjerciciosVectores\bin\Debug\net10.0\EjerciciosVectores.runtimeconfig.json
+D:\ejercicios_cs\EjerciciosVectores\bin\Debug\net10.0\EjerciciosVectores.dll
+D:\ejercicios_cs\EjerciciosVectores\bin\Debug\net10.0\EjerciciosVectores.pdb
+D:\ejercicios_cs\EjerciciosVectores\obj\Debug\net10.0\EjerciciosVectores.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicios_cs\EjerciciosVectores\obj\Debug\net10.0\EjerciciosVectores.AssemblyInfoInputs.cache
+D:\ejercicios_cs\EjerciciosVectores\obj\Debug\net10.0\EjerciciosVectores.AssemblyInfo.cs
+D:\ejercicios_cs\EjerciciosVectores\obj\Debug\net10.0\EjerciciosVectores.csproj.CoreCompileInputs.cache
+D:\ejercicios_cs\EjerciciosVectores\obj\Debug\net10.0\EjerciciosVectores.sourcelink.json
+D:\ejercicios_cs\EjerciciosVectores\obj\Debug\net10.0\EjerciciosVectores.dll
+D:\ejercicios_cs\EjerciciosVectores\obj\Debug\net10.0\refint\EjerciciosVectores.dll
+D:\ejercicios_cs\EjerciciosVectores\obj\Debug\net10.0\EjerciciosVectores.pdb
+D:\ejercicios_cs\EjerciciosVectores\obj\Debug\net10.0\EjerciciosVectores.genruntimeconfig.cache
+D:\ejercicios_cs\EjerciciosVectores\obj\Debug\net10.0\ref\EjerciciosVectores.dll
