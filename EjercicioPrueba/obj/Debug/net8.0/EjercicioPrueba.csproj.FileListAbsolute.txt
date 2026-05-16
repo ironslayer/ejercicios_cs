@@ -1,0 +1,14 @@
+D:\ejercicios_cs\EjercicioPrueba\bin\Debug\net8.0\EjercicioPrueba.exe
+D:\ejercicios_cs\EjercicioPrueba\bin\Debug\net8.0\EjercicioPrueba.deps.json
+D:\ejercicios_cs\EjercicioPrueba\bin\Debug\net8.0\EjercicioPrueba.runtimeconfig.json
+D:\ejercicios_cs\EjercicioPrueba\bin\Debug\net8.0\EjercicioPrueba.dll
+D:\ejercicios_cs\EjercicioPrueba\bin\Debug\net8.0\EjercicioPrueba.pdb
+D:\ejercicios_cs\EjercicioPrueba\obj\Debug\net8.0\EjercicioPrueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicios_cs\EjercicioPrueba\obj\Debug\net8.0\EjercicioPrueba.AssemblyInfoInputs.cache
+D:\ejercicios_cs\EjercicioPrueba\obj\Debug\net8.0\EjercicioPrueba.AssemblyInfo.cs
+D:\ejercicios_cs\EjercicioPrueba\obj\Debug\net8.0\EjercicioPrueba.csproj.CoreCompileInputs.cache
+D:\ejercicios_cs\EjercicioPrueba\obj\Debug\net8.0\EjercicioPrueba.dll
+D:\ejercicios_cs\EjercicioPrueba\obj\Debug\net8.0\refint\EjercicioPrueba.dll
+D:\ejercicios_cs\EjercicioPrueba\obj\Debug\net8.0\EjercicioPrueba.pdb
+D:\ejercicios_cs\EjercicioPrueba\obj\Debug\net8.0\EjercicioPrueba.genruntimeconfig.cache
+D:\ejercicios_cs\EjercicioPrueba\obj\Debug\net8.0\ref\EjercicioPrueba.dll
