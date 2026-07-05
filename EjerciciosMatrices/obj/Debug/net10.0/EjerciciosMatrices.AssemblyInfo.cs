@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjerciciosMatrices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba5dee9058aafbdea70309a0b9689bdc8c4a5552")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01f29b4d22e607b343def15f9ce3c20439ac246a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjerciciosMatrices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjerciciosMatrices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
