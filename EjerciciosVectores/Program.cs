@@ -155,8 +155,6 @@ public class EjericiosVectores
 
         int N= int.Parse(Console.ReadLine());
 
-
-
         int[,] matrizCuadrada = new int [N,N];
 
         for (int i = 0; i < N; i++)
