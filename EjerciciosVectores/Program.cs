@@ -48,6 +48,9 @@ public class EjericiosVectores
 
 
 
+
+
+
         
         // 2. Ivan es un chico muy amistoso, buscando el amor de su vida pero antes debe
         // saber cuanto tiene de promedio en sus examenes.En el colegio que esta tiene N
