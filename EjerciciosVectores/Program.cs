@@ -183,7 +183,10 @@ public class EjericiosVectores
         Console.WriteLine("La diagonal princial es:");
         for (int i = 0; i < N; i++)
         {
-            Console.Write(matrizCuadrada[i,i]+" ");
+          
+
+
+Console.Write(matrizCuadrada[i,i]+" ");
         }
 
     }
