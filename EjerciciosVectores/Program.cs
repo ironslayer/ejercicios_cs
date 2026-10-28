@@ -5,8 +5,6 @@ public class EjericiosVectores
   
 
 
-
-
     public static void Main(string[] args)
     {
         // 1
