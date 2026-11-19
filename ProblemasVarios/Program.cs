@@ -135,6 +135,19 @@ public class Ejericios2
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
         // Imprimir la matriz
         Console.WriteLine("\n=== TU MATRIZ ===");
         for (int i = 0; i < filas; i++)
